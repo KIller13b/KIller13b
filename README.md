@@ -47,17 +47,6 @@ print(SunilKharadi())
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/KIller13b/kabadiwala-connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KIller13b&repo=kabadiwala-connect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=bf91f3&text_color=c9d1d9" />
-  </a>&nbsp;
-  <a href="https://github.com/KIller13b/upi-ledger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KIller13b&repo=upi-ledger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=bf91f3&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/KIller13b/object-classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KIller13b&repo=object-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=bf91f3&text_color=c9d1d9" />
-  </a>
-</div>
 
 ---
 
