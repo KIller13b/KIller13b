@@ -117,14 +117,14 @@ print(SunilKharadi())
 
 ---
 
-## 🏅 Achievements
+## ⚡ Hackathons & Experience
 
 <div align="center">
 
-| 🏆 | Event | Year |
-|:--:|:--|:--:|
-| 🇮🇳 | **Smart India Hackathon (SIH) Participant** — Kabadiwala Connect | 2026 |
-| ⚡ | **CASCADE '26** — Flagship Hackathon @ TantraFiesta, IIIT Nagpur | 2026 |
+| 🏷️ | Event | Role / Focus | Year |
+|:--:|:--|:--|:--:|
+| 🇮🇳 | **Smart India Hackathon (SIH)** | Built *Kabadiwala Connect* — E-waste circular economy & on-device AI | 2026 |
+| 🚀 | **CASCADE '26 (TantraFiesta, IIIT Nagpur)** | Competitor — Privacy-First Systems & Edge AI | 2026 |
 
 </div>
 
