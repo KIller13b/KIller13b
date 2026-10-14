@@ -100,19 +100,10 @@ print(SunilKharadi())
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Language Distribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIller13b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=bf91f3&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIller13b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=c9d1d9&langs_count=8" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIller13b&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIller13b&bg_color=0D1117&color=70A5FD&line=bf91f3&point=FF6B6B&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIller13b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=c9d1d9&langs_count=8" height="180" />
 </div>
 
 ---
