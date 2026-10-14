@@ -6,6 +6,7 @@
 
 <p>
   <a href="https://github.com/KIller13b"><img src="https://img.shields.io/badge/GitHub-KIller13b-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sunil-kharadi-09b560427/"><img src="https://img.shields.io/badge/LinkedIn-Sunil_Kharadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=KIller13b&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />&nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
@@ -109,7 +110,14 @@ print(SunilKharadi())
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
+
+<a href="https://www.linkedin.com/in/sunil-kharadi-09b560427/"><img src="https://img.shields.io/badge/LinkedIn-Sunil_Kharadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/KIller13b"><img src="https://img.shields.io/badge/GitHub-KIller13b-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
 
 *"The best performance optimization is doing computation where the data already lives — the user's device."*
 
