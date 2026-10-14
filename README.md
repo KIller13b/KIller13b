@@ -24,7 +24,7 @@ class SunilKharadi:
         self.focus      = ["Edge AI", "Full-Stack Engineering", "Privacy-First Systems"]
         self.stack      = ["Python", "TypeScript", "Dart", "React", "Flutter", "FastAPI"]
         self.ai_stack   = ["TFLite", "MobileNetV2", "Transformers.js", "ONNX", "WebGPU"]
-        self.currently  = "Building for CASCADE '26 @ IIIT Nagpur (TantraFiesta)"
+        self.currently  = "Building edge AI & privacy-first web/mobile applications"
         self.fun_fact   = "I run ML inference entirely in your browser — no cloud, no leaks 🔒"
 
     def __str__(self):
@@ -124,7 +124,6 @@ print(SunilKharadi())
 | 🏷️ | Event | Role / Focus | Year |
 |:--:|:--|:--|:--:|
 | 🇮🇳 | **Smart India Hackathon (SIH)** | Built *Kabadiwala Connect* — E-waste circular economy & on-device AI | 2026 |
-| 🚀 | **CASCADE '26 (TantraFiesta, IIIT Nagpur)** | Competitor — Privacy-First Systems & Edge AI | 2026 |
 
 </div>
 
