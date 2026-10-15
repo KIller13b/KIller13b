@@ -42,6 +42,7 @@ print(SunilKharadi())
 
 | 🏆 Project | 🛠️ Stack | 📝 What It Does |
 |:--|:--|:--|
+| **[🛡️ AgentAudit](https://github.com/KIller13b/agentaudit)** | FastAPI · React 18 · Solidity · Web3 · Groq | Autonomous multi-agent AI security auditor for Solidity smart contracts & GitHub PRs. Runs Guard, Speedster, and Fixer agents in parallel to detect reentrancy, access control flaws, and generate one-click diff fixes. |
 | **[♻️ Kabadiwala Connect](https://github.com/KIller13b/kabadiwala-connect)** | Flutter · FastAPI · TFLite · MobileNetV2 | SIH 2026 — Fair-trade circular economy platform for informal e-waste collectors. On-device AI classifies material (3–8× price uplift), transparent ledger, offline-first. |
 | **[💰 UPI Ledger](https://github.com/KIller13b/upi-ledger)** | React 18 · TypeScript · Dexie · Tailwind v4 | Privacy-first GPay/bank statement analyser. PDF parsing runs entirely in the browser via `pdf.js` — your data never leaves your device. |
 | **[🧠 In-Browser Object Classifier](https://github.com/KIller13b/object-classifier)** | Transformers.js · WebGPU · ONNX · PWA | Zero-shot open-vocabulary image recognition using quantized CLIP, accelerated by WebGPU — no server, no API key, no cost. |
