@@ -17,15 +17,28 @@
 
 ## 👨‍💻 About Me
 
-> 🎓 **2nd Year Computer Science & Engineering student at IIIT Nagpur.**  
+<table>
+<tr>
+<td valign="top" width="58%">
+
+> 🎓 **2nd Year Computer Science & Engineering student at IIIT Nagpur**  
 > A builder at heart, focused on crafting fast, reliable software where intelligence lives on the device and user privacy comes first.
 
-* 📍 **Campus:** Indian Institute of Information Technology, Nagpur
-* 🛠️ **Core Focus:** Full-stack systems engineering, on-device machine learning (Edge AI), and local-first architectures.
-* 🔬 **Currently Exploring:** Agentic AI pipelines, WebGPU/WASM in-browser runtimes, and systems security.
-* 🎯 **In the Zone:** Hackathons, open-source development, and building tools that solve real everyday problems.
+- 📍 **Campus:** Indian Institute of Information Technology, Nagpur
+- 🛠️ **Core Focus:** Full-stack systems engineering, on-device machine learning (Edge AI), and local-first architectures.
+- 🔬 **Currently Exploring:** Agentic AI pipelines, WebGPU/WASM in-browser runtimes, and systems security.
+- 🎯 **In the Zone:** Hackathons, open-source development, and building tools that solve real everyday problems.
 
 > *"The best software is invisible — it just works, anywhere, for anyone."*
+
+</td>
+<td valign="middle" align="center" width="42%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding aesthetic" style="border-radius: 8px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
