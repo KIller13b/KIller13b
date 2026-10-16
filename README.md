@@ -15,24 +15,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class SunilKharadi:
-    def __init__(self):
-        self.name       = "Sunil Kharadi"
-        self.handle     = "@KIller13b"
-        self.focus      = ["Edge AI", "Full-Stack Engineering", "Privacy-First Systems"]
-        self.stack      = ["Python", "TypeScript", "Dart", "React", "Flutter", "FastAPI"]
-        self.ai_stack   = ["TFLite", "MobileNetV2", "Transformers.js", "ONNX", "WebGPU"]
-        self.currently  = "Building edge AI & privacy-first web/mobile applications"
-        self.fun_fact   = "I run ML inference entirely in your browser — no cloud, no leaks 🔒"
+> 🎓 **2nd Year Computer Science & Engineering student at IIIT Nagpur.**  
+> A builder at heart, focused on crafting fast, reliable software where intelligence lives on the device and user privacy comes first.
 
-    def __str__(self):
-        return f"Hi, I'm {self.name} 👋 — {self.focus[0]} enthusiast"
-
-print(SunilKharadi())
-```
+* 📍 **Campus:** Indian Institute of Information Technology, Nagpur
+* 🛠️ **Core Focus:** Full-stack systems engineering, on-device machine learning (Edge AI), and local-first architectures.
+* 🚀 **What I've Been Building:**
+  * **[AgentAudit](https://github.com/KIller13b/agentaudit)** — An autonomous multi-agent code & smart contract security scanner.
+  * **[Kabadiwala Connect](https://github.com/KIller13b/kabadiwala-connect)** — An e-waste circular economy platform with offline TFLite classification (SIH 2026).
+  * **[UPI Ledger](https://github.com/KIller13b/upi-ledger)** — A 100% client-side privacy-first financial statement parser.
+* 🔬 **Currently Exploring:** Agentic AI pipelines, WebGPU/WASM in-browser runtimes, and systems security.
+* 🎯 **In the Zone:** Hackathons, open-source development, and building tools that solve real everyday problems.
 
 ---
 
