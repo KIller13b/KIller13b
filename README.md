@@ -22,12 +22,10 @@
 
 * 📍 **Campus:** Indian Institute of Information Technology, Nagpur
 * 🛠️ **Core Focus:** Full-stack systems engineering, on-device machine learning (Edge AI), and local-first architectures.
-* 🚀 **What I've Been Building:**
-  * **[AgentAudit](https://github.com/KIller13b/agentaudit)** — An autonomous multi-agent code & smart contract security scanner.
-  * **[Kabadiwala Connect](https://github.com/KIller13b/kabadiwala-connect)** — An e-waste circular economy platform with offline TFLite classification (SIH 2026).
-  * **[UPI Ledger](https://github.com/KIller13b/upi-ledger)** — A 100% client-side privacy-first financial statement parser.
 * 🔬 **Currently Exploring:** Agentic AI pipelines, WebGPU/WASM in-browser runtimes, and systems security.
 * 🎯 **In the Zone:** Hackathons, open-source development, and building tools that solve real everyday problems.
+
+> *"The best software is invisible — it just works, anywhere, for anyone."*
 
 ---
 
