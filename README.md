@@ -34,7 +34,7 @@
 </td>
 <td valign="middle" align="center" width="42%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding aesthetic" style="border-radius: 8px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=KIller13b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
 
 </td>
 </tr>
